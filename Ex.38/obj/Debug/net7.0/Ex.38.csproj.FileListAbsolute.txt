@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\obj\Debug\net7.0\Ex.38.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\obj\Debug\net7.0\Ex.38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\obj\Debug\net7.0\Ex.38.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\obj\Debug\net7.0\Ex.38.AssemblyInfo.cs
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\obj\Debug\net7.0\Ex.38.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\bin\Debug\net7.0\Ex.38.exe
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\bin\Debug\net7.0\Ex.38.deps.json
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\bin\Debug\net7.0\Ex.38.runtimeconfig.json
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\bin\Debug\net7.0\Ex.38.dll
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\bin\Debug\net7.0\Ex.38.pdb
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\obj\Debug\net7.0\Ex.38.dll
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\obj\Debug\net7.0\refint\Ex.38.dll
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\obj\Debug\net7.0\Ex.38.pdb
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\obj\Debug\net7.0\Ex.38.genruntimeconfig.cache
+C:\Users\user\Desktop\GB\SEM5C#.DZ.Korolyonok\Ex.38\obj\Debug\net7.0\ref\Ex.38.dll
